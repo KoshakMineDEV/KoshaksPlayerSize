@@ -14,13 +14,12 @@
 
 // Please fill up the content here before developing your plugin!
 
-static_assert(false, "Please modify your plugin information below and delete this line!");
 
-#define PLUGIN_NAME "Plugin Name"
+#define PLUGIN_NAME "KPS"
 
-#define PLUGIN_INTRODUCTION "Plugin Introduction"
+#define PLUGIN_INTRODUCTION "Koshak's Player Size is Minecraft:BE Plugin, that allows players change their size using command."
 
-#define PLUGIN_AUTHOR "Plugin Author Name"
+#define PLUGIN_AUTHOR "Koshak_Mine"
 
 // The version of your plugin. If you do not know how to set it, please refer
 // to https://semver.org/ .
